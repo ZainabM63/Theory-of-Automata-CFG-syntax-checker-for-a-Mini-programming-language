@@ -104,13 +104,4 @@ To enable image generation:
 
 ---
 
-```
 
-✅ **Instructions:**  
-- Open VS Code  
-- Create a file named `README.md`  
-- Paste the above **as-is**  
-- Then click **“Preview” (Ctrl+Shift+V)** to see the formatted Markdown  
-
-Would you like me to make a **smaller version (under 80 lines)** suitable for Fiverr or GitHub description too?
-```
