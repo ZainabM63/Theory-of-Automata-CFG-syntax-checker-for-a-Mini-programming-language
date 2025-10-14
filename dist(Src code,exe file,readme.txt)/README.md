@@ -2,7 +2,7 @@
 
 **Author:** Zainab Mughal
 
-**Focus:** Cybersecurity & Web App Development
+**Focus:** THEORY OF AUTOMATA-CFG
 
 ---
 
