@@ -1,0 +1,13 @@
+=== Parse Tree ===
+statement
+  decl_stmt
+    int
+    y
+    =
+    0
+    ;
+
+
+=== Derivation Steps ===
+statement → decl_stmt
+decl_stmt → int y = 0 ;
