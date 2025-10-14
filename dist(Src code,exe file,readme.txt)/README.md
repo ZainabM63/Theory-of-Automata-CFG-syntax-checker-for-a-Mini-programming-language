@@ -1,3 +1,10 @@
+## 👩‍💻 Developer
+
+**Author:** Zainab Mughal
+
+**Focus:** Cybersecurity & Web App Development
+
+---
 
 # CFG-Based Syntax Checker
 
